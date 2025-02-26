@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qHSbG9wqCKfYPCBhT4+WTsh64aJhUxSnsbSF9ucPKYM=",
+  "Source": "senkron-todo-api",
+  "BasePath": "_content/senkron-todo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

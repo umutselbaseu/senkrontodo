@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\senkron-todo-api.props" />
+</Project>
